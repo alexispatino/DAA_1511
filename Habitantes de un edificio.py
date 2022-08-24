@@ -18,7 +18,7 @@ for i in range(puertas):
             fila = i
             columna = j
 
-print("El numero mayor de habitantes es: ")
+print("La puerta con el numero mayor de habitantes es: ")
 print(mayor)
 print("Puerta", fila + 1, ", Piso", columna + 1)
 print("La matriz es:")
